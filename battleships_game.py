@@ -1,3 +1,14 @@
+#!/bin/env python3
+
+# Script Name   : battleships_game.py
+# Author        : Abraham Musa
+# Created       : 15 February 2021  
+# Last Modified	: 15 February 2021  
+# Version       : 1.0.1
+# Modifications : 
+# Description	 : 
+
+
 import random
 
 board = []

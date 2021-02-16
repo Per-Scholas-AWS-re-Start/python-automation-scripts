@@ -1,3 +1,14 @@
+#!/bin/env python3
+
+# Script Name   : binary_search_tree.py
+# Author        : Abraham Musa
+# Created       : 15 February 2021  
+# Last Modified	: 15 February 2021  
+# Version       : 1.0.1
+# Modifications : 
+# Description	 : 
+
+
 class Tree:
 	def __init__(self):
 		self.root = None
