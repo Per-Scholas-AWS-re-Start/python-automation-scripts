@@ -1,8 +1,8 @@
-  # Script Name   : logs.py
-# Author        : Craig Richards
-# Created       : 13th October 2011
-# Last Modified	: 14 February 2016
-# Version		: 1.2
+# Script Name   : logs.py
+# Author        : Abraham Musa
+# Created       :   
+# Last Modified	:   
+# Version		: 1.1
 #
 # Modifications	: 1.1 - Added the variable zip_program so you can set it for the zip program on whichever OS, so to run on a different OS just change the locations of these two variables.
 #               : 1.2 - Tidy up comments and syntax

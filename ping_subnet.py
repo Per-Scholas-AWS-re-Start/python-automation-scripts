@@ -1,16 +1,18 @@
+#!/bin/env python3
+
+# Script Name   : ping_subnet.py
+# Author(s)     : Abraham Musa
+# Created       : 15 February 2021
+# Last Modified : 15 February 2021
+# Version       : 1.1
+# Modifications : 
+# Description   : After supplying the first 3 octets it will scan the final range for available addresses
+
 from __future__ import print_function
 
 import os  # Load the Library Module
 import subprocess  # Load the Library Module
 import sys  # Load the Library Module
-
-# Script Name		: ping_subnet.py
-# Author				: Craig Richards
-# Created				: 12th January 2012
-# Last Modified		:
-# Version				: 1.0
-# Modifications		:
-# Description			: After supplying the first 3 octets it will scan the final range for available addresses
 
 filename = sys.argv[0]  # Sets a variable for the script name
 

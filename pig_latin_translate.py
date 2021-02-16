@@ -1,3 +1,16 @@
+#!/bin/env python3
+
+# Script Name   : ping_servers.py
+# Author(s)     : Abraham Musa
+# Created       : 15 February 2021
+# Last Modified : 15 February 2021
+# Version       : 1.1
+# Modifications : 
+# Description	 : 
+
+
+#servers associated with that application group.
+
 #Take the users input
 words = raw_input("Enter some text to translate to pig latin: ")
 print "You entered: ", words

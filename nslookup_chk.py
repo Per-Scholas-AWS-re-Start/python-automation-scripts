@@ -1,3 +1,5 @@
+#!/bin/env python3
+
 # Script Name		: nslookup_check.py
 # Author				: Craig Richards
 # Created				: 5th January 2012

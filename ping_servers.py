@@ -1,17 +1,19 @@
+#!/bin/env python3
+
+# Script Name   : ping_servers.py
+# Author(s)     : Abraham Musa
+# Created       : 15 February 2021
+# Last Modified : 15 February 2021
+# Version       : 1.1
+# Modifications : 
+# Description	 : This script will, depending on the arguments supplied will ping the
+# servers associated with that application group.
+
 from __future__ import print_function
 
 import os  # Load the Library Module
 import subprocess  # Load the Library Module
 import sys  # Load the Library Module
-
-# Script Name		: ping_servers.py
-# Author				: Craig Richards
-# Created				: 9th May 2012
-# Last Modified		: 14th May 2012
-# Version				: 1.1
-# Modifications		: 1.1 - 14th May 2012 - CR Changed it to use the config directory to store the server files
-# Description	 : This script will, depending on the arguments supplied will ping the
-# servers associated with that application group.
 
 filename = sys.argv[0]  # Sets a variable for the script name
 if '-h' in sys.argv or '--h' in sys.argv or '-help' in sys.argv or '--help' in sys.argv:  # Help Menu if called

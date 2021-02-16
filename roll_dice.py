@@ -1,3 +1,13 @@
+#!/bin/env python3
+
+# Script Name   : roll_dice.py
+# Author(s)     : Abraham Musa
+# Created       : 15 February 2021
+# Last Modified : 15 February 2021
+# Version       : 1.1
+# Modifications : 
+# Description   : 
+
 import random
 min = 1
 max = 6
